@@ -1,0 +1,7 @@
+{
+    "id": "local",
+    "host": "local.dev",
+    "aliases": [
+        "192.168.33.10"
+    ]
+}
